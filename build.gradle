@@ -28,6 +28,7 @@ eclipse {
             withProperties { properties -> properties.putAll(props) }
         }
     }
+}
 
 dependencies {
     testCompile 'junit:junit:4.12'
